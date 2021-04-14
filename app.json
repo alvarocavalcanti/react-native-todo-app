@@ -1,0 +1,12 @@
+{
+  "name": "react-native-todo-app",
+  "displayName": "react-native-todo-app",
+  "expo": {
+    "name": "react-native-todo-app",
+    "slug": "react-native-todo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
